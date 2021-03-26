@@ -11,9 +11,9 @@ Methodology :
 
 2.After reading the audio file as the required data , we apply minimum mean squared estimation on the data extracted .
 
-3. Applying Spectral Gating Noise Reduction. Through spectral gating we can get rid of the rest of the residual noise points.Noise Gate is like a device that helps us control the volume of the audio signal, which is represented by the amplitude of the audio signal. So passing the audio signal through the spectral gate, we intentionally bring down the volume of the suspected noise signals.
+3.Applying Spectral Gating Noise Reduction. Through spectral gating we can get rid of the rest of the residual noise points.Noise Gate is like a device that helps us control the volume of the audio signal, which is represented by the amplitude of the audio signal. So passing the audio signal through the spectral gate, we intentionally bring down the volume of the suspected noise signals.
 
-4. We can try re-enhancing the audio signal by applying the M.M.S.E. enhancement once again in order to slightly strengthen the resultant signal. This is not a required process but it does help in subtly strengthening the audio signal.
+4.We can try re-enhancing the audio signal by applying the M.M.S.E. enhancement once again in order to slightly strengthen the resultant signal. This is not a required process but it does help in subtly strengthening the audio signal.
 
 RESULTS :
 
