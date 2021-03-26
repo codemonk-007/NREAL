@@ -1,4 +1,4 @@
-# NREAL 
+# N.R.E.AL 
 ## Noise Removal Algorithm
 
 
